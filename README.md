@@ -12,3 +12,5 @@ My name is Jazzy, the Architect of this code.
   - Premiums are a fee you pay for having life insurance
   - Premiums can be based on **gender, smoking status, age, # of children, and BMI**
     - when looking at **medical insurance**
+
+## Analysis 🔍
